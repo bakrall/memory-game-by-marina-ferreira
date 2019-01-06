@@ -19,7 +19,6 @@ function flipCard() {
 	}
 
 	//second click
-	hasFlippedCard = false;
 	secondCard = this;
 
 	checkForMatch();
